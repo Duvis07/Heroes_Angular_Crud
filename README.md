@@ -36,6 +36,8 @@ En la siguiente sección después de esta, continuaremos la aplicación pero rea
 
 
 <<<------------------------------------------------------------------------------->>>
+
+
 ¿Qué veremos en esta sección 16?
 Este es un breve listado de los temas fundamentales:
 
